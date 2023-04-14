@@ -1,0 +1,23 @@
+{
+  "name": "node-http-example",
+  "version": "1.0.0",
+  "description": "Clone do Twitter feito em NodeJS",
+  "main": "myApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node myApp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrocauan/twitter-clone.git"
+  },
+  "author": "98noot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrocauan/twitter-clone/issues"
+  },
+  "homepage": "https://github.com/pedrocauan/twitter-clone#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
